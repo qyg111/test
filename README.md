@@ -1,5 +1,5 @@
 # test
-天天生鲜项目
+## 天天生鲜项目
 项目开发环境：pycharm，python3.6，window10
 运行环境：centos7.2
 依赖文件requesments.txt
@@ -8,7 +8,7 @@
 主要功能包括：注册登录 | 用户中心 | 商品信息 | 购物车 | 订单模块
 技术实现：Mysql, Redis, FastDFS, Celery, Nginx+uwsgi, Django2.0+Xadmin
 
-Attention:
+## Attention:
   原项目使用django1.9+admin
   可以更新为django2.0 更改所有的路由urls.py模块即可 使用re_path 去替换 url（from django.urls import include,re_path）
   xadmin 可以使用pip安装 依赖模块有 crispy_forms
@@ -18,4 +18,9 @@ Attention:
   
   在每个app目录下添加adminx.py文件在这里注册你的model 和admin类似；xadmin会自动读取该模块
   然后重新生成migrations all并migrate同步数据库即可
-  
+## 部分页面展示
+ ![dailyfresh](https://img-blog.csdnimg.cn/20190517103956341.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4MTgzNTky,size_16,color_FFFFFF,t_70 "index页面") 
+ ![dailyfresh](https://img-blog.csdnimg.cn/20190517104029188.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4MTgzNTky,size_16,color_FFFFFF,t_70
+ "cart页面") 
+  ![dailyfresh](https://img-blog.csdnimg.cn/20190517104057289.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4MTgzNTky,size_16,color_FFFFFF,t_70 "detail页面") 
+   ![dailyfresh](https://img-blog.csdnimg.cn/2019051710413040.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4MTgzNTky,size_16,color_FFFFFF,t_70 "login页面") 
