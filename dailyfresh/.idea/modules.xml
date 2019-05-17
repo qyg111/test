@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Blog/.idea/Blog.iml" filepath="$PROJECT_DIR$/../Blog/.idea/Blog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Community_Management/.idea/Community_Management.iml" filepath="$PROJECT_DIR$/../Community_Management/.idea/Community_Management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MxOnline/.idea/MxOnline.iml" filepath="$PROJECT_DIR$/../MxOnline/.idea/MxOnline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ShangHai_BigData_pro/.idea/ShangHai_BigData_pro.iml" filepath="$PROJECT_DIR$/../ShangHai_BigData_pro/.idea/ShangHai_BigData_pro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dailyfresh.iml" filepath="$PROJECT_DIR$/.idea/dailyfresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../data_object/.idea/data_object.iml" filepath="$PROJECT_DIR$/../data_object/.idea/data_object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../essence-master/.idea/essence-master.iml" filepath="$PROJECT_DIR$/../essence-master/.idea/essence-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../flask_news1/.idea/flask_news1.iml" filepath="$PROJECT_DIR$/../flask_news1/.idea/flask_news1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ihome/.idea/ihome.iml" filepath="$PROJECT_DIR$/../ihome/.idea/ihome.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/jd_spider-master/.idea/jingdong.iml" filepath="$USER_HOME$/Desktop/jd_spider-master/.idea/jingdong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../movie_project/.idea/movie_project.iml" filepath="$PROJECT_DIR$/../movie_project/.idea/movie_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tutorial/.idea/tutorial.iml" filepath="$PROJECT_DIR$/../tutorial/.idea/tutorial.iml" />
+    </modules>
+  </component>
+</project>
